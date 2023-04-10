@@ -1,0 +1,4 @@
+@host = http://localhost:5106
+
+### Test the API ###
+GET {{host}}/api/values

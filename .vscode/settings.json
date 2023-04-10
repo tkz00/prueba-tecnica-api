@@ -1,0 +1,17 @@
+{
+    "sqltools.connections": [
+        {
+            "mysqlOptions": {
+                "authProtocol": "default"
+            },
+            "previewLimit": 50,
+            "server": "localhost",
+            "port": 3306,
+            "driver": "MySQL",
+            "name": "prueba_tecnica_db",
+            "database": "prueba_tecnica_db",
+            "username": "theo",
+            "password": "1234"
+        }
+    ]
+}
